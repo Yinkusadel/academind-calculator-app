@@ -14,7 +14,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](academind-calculator-app.netlify.app)
 
 ### Development (Running locally)
 
